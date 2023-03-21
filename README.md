@@ -1,24 +1,7 @@
-# massage_website
+#Massage site.
 
-## Project setup
-```
-npm install
-```
+You can explore the services offered by Sport & Injury Massage of Delaware
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Live view at: https://simdelaware.netlify.app/#/
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
